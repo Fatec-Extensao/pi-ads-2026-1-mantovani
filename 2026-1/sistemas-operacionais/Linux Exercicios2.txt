@@ -1,0 +1,72 @@
+Ex. 1: groupadd professores
+groupadd alunos
+groupadd administrativos
+
+Ex. 2: useradd aroldo
+usermod -G professores aroldo
+useradd zeca
+usermod -G professores zeca
+useradd beatriz
+usermod -G professores beatriz
+useradd norberto
+usermod -G alunos norberto
+useradd hugo
+usermod -G alunos hugo
+useradd mariana
+usermod -G alunos mariana
+useradd patricia
+usermod -G administrativos patricia
+useradd camila
+usermod -G administrativos camila
+useradd hebe
+usermod -G administrativos hebe
+
+Ex.3: mkdir /home/professores
+mkdir /home/alunos
+mkdir /home/administrativos
+
+Ex.4: chown :professores /home/professores
+chown :alunos /home/alunos
+chown :administrativos /home/administrativos
+
+Ex.5: chmod 770 /home/professores
+chmod 770 /home/alunos
+chmod 770 /home/administrativos
+
+Ex.6: usermod -G professores,alunos aroldo
+usermod -G professores,alunos zeca
+usermod -G professores,alunos beatriz
+
+Ex.7: kill 2588
+
+Ex.8: bg %
+
+Ex.9: 19
+
+Ex.10: top 
+
+ctrl + z
+
+Ex.11: fg
+
+Ex.12: Mostra apenas os processos que estão utilizando CPU ou Memória
+
+Ex.13: ps
+
+Ex.14: kill 2500
+
+Ex.15: top
+Ctrl + z
+bg
+
+Ex.16: jobs -l
+
+Ex.17: killall top
+
+Ex.18: O processo é suspenso
+
+Ex.19: nice -18 top
+
+Ex.20: renice -18 top
+
+Vitor Hugo Dias Mantovani

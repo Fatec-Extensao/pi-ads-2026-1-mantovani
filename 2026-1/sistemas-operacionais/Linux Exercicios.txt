@@ -1,0 +1,28 @@
+Ex. 1: sort -s alunos.txt | head -n 3
+
+Ex. 2: Echo "Joao" >> alunos.txt
+Echo "Maria" >> alunos.txt
+Echo "Thiago" >> alunos.txt
+Echo "Pedro" >> alunos.txt
+
+Ex.3: ls -l ~ > ~/ls.txt
+
+Ex.4: ls /etc/*c > ~/numero2.txt
+
+Ex.5: sed -n '4,6p' nomes.txt
+
+Ex.6: sed -n '6,9p' nomes.txt | wc -m
+
+Ex.7: find / -name resolv.conf
+
+Ex.8: grep "log" /var/log/syslog
+
+Ex.9: chmod u=rwx,g=rw,o= so2.txt
+
+Ex.10: chmod 760 so2.txt
+
+Ex.11: chmod u=rw,g=r,o=x ads.txt
+
+Ex.12: chmod 641 ads.txt
+
+Vitor Hugo Dias Mantovani

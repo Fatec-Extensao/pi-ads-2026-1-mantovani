@@ -1,0 +1,16 @@
+Áreas de Atuação e Aplicações
+
+O Frontier é utilizado principalmente para pesquisas de "grande ciência" que buscam responder perguntas fundamentais do universo e resolver desafios globais: 
+
+Cosmologia e Astrofísica: Realizou a maior e mais detalhada simulação do universo já feita, modelando a formação de estrelas, galáxias e buracos negros para validar modelos cosmológicos.
+
+Ciências de Energia: Pesquisa de novos materiais para baterias de próxima geração, fusão nuclear e otimização de tecnologias de energia limpa.
+
+Saúde e Biologia: Aceleração na descoberta de medicamentos, simulações de interações proteicas complexas e análise de grandes conjuntos de dados genômicos para o combate a doenças.
+
+Física Nuclear: Utilizado para resolver enigmas da física, como o estudo da interação de neutrinos com a matéria e o comportamento do isótopo cálcio-48.
+
+Inteligência Artificial (IA) e Big Data: Treinamento de modelos de IA em escala sem precedentes e análise massiva de dados científicos complexos.
+
+Ciência Climática: Modelagem de alta fidelidade para prever mudanças climáticas e simular fenômenos meteorológicos com precisão local e global. 
+

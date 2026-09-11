@@ -1,0 +1,28 @@
+Algoritmo "Vetor"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 07/06/2026
+Var
+   vet: vetor[1..10] de inteiro
+   num, i: inteiro
+
+Inicio
+  Para i de 1 ate 10 faça
+  Escreval("Digite o ", i , "número")
+  Leia(vet[i])
+  Fimpara
+  Escreval("Digite o número a ser pesquisado:")
+  Leia(num)
+  Para i de 1 ate 10 faça
+  Se(num = vet[i])Entao
+  Escreval("A posição de ", num , "é ", i )
+  fimse
+  fimpara
+
+
+
+
+
+Fimalgoritmo
