@@ -1,0 +1,41 @@
+Exercício 1  – Academia de Ginástica
+
+Uma academia deseja informatizar seu controle de alunos. Cada Aluno tem id_aluno, nome, cpf e plano (mensal, trimestral, anual).
+Os alunos frequentam Aulas, que possuem id_aula, nome, dia_semana e horario.
+As aulas são ministradas por Instrutores, que possuem id_instrutor, nome, especialidade e registro_profissional.
+
+Entidade: Alunos > Atributos: id_aluno, nome, cpf e plano
+Aulas > Atributos: id_aula, nome, dia semana, horario.
+Instrutor > Atributos: id_instrutor, nome, especialidade e registro_profissional.
+
+
+Exercício 2 – Sistema de Vendas Online
+
+Uma loja virtual precisa organizar seus pedidos. Cada Cliente tem id_cliente, nome, email e telefone. Ele pode realizar diversos Pedidos, cada um com id_pedido, data_pedido e status.
+Um pedido é composto por Produtos, que possuem id_produto, nome, preco e estoque_atual. Como um pedido pode ter vários produtos, e um mesmo produto pode estar em diversos pedidos, é necessário registrar também a quantidade de cada produto dentro de um pedido.
+
+Entidade: Cliente > Atributos: id_cliente, nome, email e telefone
+Pedidos > Atributos: id_pedido, data_pedido e status.
+Produtos > Atributos: id_produto, nome, preco e estoque atual
+
+
+Exercício 3 – Clínica Médica
+
+Uma clínica mantém informações sobre seus atendimentos. Cada Paciente possui id_paciente, nome, data_nascimento e endereco. Eles podem ser atendidos por diversos Médicos, que possuem id_medico, nome, especialidade e CRM.
+Cada consulta é registrada em um Atendimento, que inclui id_atendimento, data, hora e diagnostico.
+
+Entidade: Paciente > Atributos: id_paciente, nome, data_nascimento e endereço
+Medicos > Atributos: id_medico, nome, especialidade e CRM.
+Atendimento > Atributos: id_atendimento, data, hora e diagnostico.
+
+
+Exercício 4 – Gestão de Cursos
+
+Uma escola de cursos livres deseja organizar suas turmas. Cada Curso possui id_curso, nome, carga_horaria e nivel (básico, intermediário, avançado).
+Os cursos podem ser ministrados por Professores, que têm id_professor, nome, formacao e telefone.
+Cada Aluno tem id_aluno, nome, email e data_matricula. Os alunos podem se matricular em vários cursos, e cada matrícula deve registrar a data_matricula e o status (ativo, trancado, concluído).
+
+Entidade: Curso > Atributos: id_curso, nome, carga_horaria e nível
+Professores: Atributos: id_professor, nome, formacao e telefone
+Aluno > Atributos: id_aluno, nome, email e data matricula
+Matricula > Atributos: data_matricula e o status 

@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formulário</title>
+  </head>
+
+  <body>
+    <h1>Buscar Artigos</h1>
+
+    <form action="/busca" method="GET">
+      <!-- ↑ method="GET": dados vão na URL como query string -->
+      <!-- ↑ Resultado: /busca?q=html&categoria=artigos -->
+      <label for="campo-busca">Termo de busca</label> 
+     <!-- ↑ for="campo-busca" deve corresponder ao id do input -->
+        <input type="text" 
+        id="campo-busca" 
+        name="q" 
+        placeholder="Buscar..."/>
+
+        <input type="hidden" 
+        name="categoria" 
+        value="Artigos" />
+        
+        <button type="submit"> Buscar</button>
+      </label>
+    </form>
+  </body>
+</html>
