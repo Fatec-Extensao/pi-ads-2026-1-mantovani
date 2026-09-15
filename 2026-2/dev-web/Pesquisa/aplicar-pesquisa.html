@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Aplicação da Pesquisa</title>
+</head>
+<body>
+
+<header>
+    <h1>Aplicação da Pesquisa</h1>
+
+    <nav>
+        <a href="main.html">Voltar para a Página Principal</a>
+    </nav>
+</header>
+
+<main>
+    <section>
+        <h2>Função da página</h2>
+
+        <p>
+            Esta funcionalidade permite que o participante acesse a pesquisa por
+            meio de uma senha anônima. Após a validação da senha, o questionário
+            correspondente à categoria selecionada.
+        </p>
+    </section>
+
+    <section>
+        <h2>Acesso à pesquisa</h2>
+
+        <form>
+            <label for="senha">Senha de acesso:</label><br>
+            <input type="password" id="senha" name="senha"><br><br>
+
+            <button type="submit">Acessar Pesquisa</button>
+        </form>
+    </section>
+
+    <section>
+        <h2>Exemplo de questionário</h2>
+
+        <form>
+            <p>1. Como você avalia a organização da instituição?</p>
+
+            <input type="radio" id="otima" name="q1" value="otima">
+            <label for="otima">Ótima</label><br>
+
+            <input type="radio" id="boa" name="q1" value="boa">
+            <label for="boa">Boa</label><br>
+
+            <input type="radio" id="regular" name="q1" value="regular">
+            <label for="regular">Regular</label><br><br>
+
+            <p>2. Você considera o ambiente adequado?</p>
+
+            <input type="radio" id="sim" name="q2" value="sim">
+            <label for="sim">Sim</label><br>
+
+            <input type="radio" id="nao" name="q2" value="nao">
+            <label for="nao">Não</label><br><br>
+
+            <label for="sugestao">Sugestão:</label><br>
+            <textarea id="sugestao" name="sugestao" rows="4" cols="50"></textarea><br><br>
+
+            <button type="submit">Enviar Respostas</button>
+        </form>
+    </section>
+</main>
+
+<footer>
+    <p>Projeto Integrador - Sistema de Pesquisas</p>
+</footer>
+
+</body>
+</html>

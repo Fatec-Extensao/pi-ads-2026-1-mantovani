@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Gerenciar Categorias</title>
+</head>
+<body>
+
+<header>
+    <h1>Gerenciar Categorias</h1>
+
+    <nav>
+        <a href="main.html">Voltar para a Página Principal</a>
+    </nav>
+</header>
+
+<main>
+    <section>
+        <h2>Função da página</h2>
+
+        <p>
+            Esta funcionalidade permite cadastrar categorias de participantes,
+            como alunos, professores e colaboradores, além de vincular essas
+            categorias às pesquisas.
+        </p>
+    </section>
+
+    <section>
+        <h2>Cadastro de categoria</h2>
+
+        <form>
+            <label for="categoria">Nome da categoria:</label><br>
+            <input type="text" id="categoria" name="categoria"><br><br>
+
+            <label for="pesquisa">Pesquisa vinculada:</label><br>
+            <select id="pesquisa" name="pesquisa">
+                <option>Pesquisa de Satisfação Institucional</option>
+                <option>Pesquisa sobre Infraestrutura</option>
+                <option>Pesquisa sobre Atendimento</option>
+            </select><br><br>
+
+            <button type="submit">Salvar Categoria</button>
+        </form>
+    </section>
+
+    <section>
+        <h2>Categorias previstas</h2>
+
+        <ul>
+            <li>Aluno</li>
+            <li>Professor</li>
+            <li>Colaborador</li>
+        </ul>
+    </section>
+</main>
+
+<footer>
+    <p>Projeto Integrador - Sistema de Pesquisas</p>
+</footer>
+
+</body>
+</html>

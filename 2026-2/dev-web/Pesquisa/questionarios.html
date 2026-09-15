@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Gerenciar Questionários</title>
+</head>
+<body>
+
+<header>
+    <h1>Gerenciar Questionários</h1>
+
+    <nav>
+        <a href="main.html">Voltar para a Página Principal</a>
+    </nav>
+</header>
+
+<main>
+    <section>
+        <h2>Função da página</h2>
+
+        <p>
+            Esta funcionalidade permite organizar questionários personalizados
+            para cada categoria de participante da pesquisa.
+        </p>
+    </section>
+
+    <section>
+        <h2>Criar questionário</h2>
+
+        <form>
+            <label for="nome-questionario">Nome do questionário:</label><br>
+            <input type="text" id="nome-questionario" name="nome-questionario"><br><br>
+
+            <label for="pesquisa">Pesquisa:</label><br>
+            <select id="pesquisa" name="pesquisa">
+                <option>Pesquisa de Satisfação Institucional</option>
+                <option>Pesquisa sobre Infraestrutura</option>
+                <option>Pesquisa sobre Atendimento</option>
+            </select><br><br>
+
+            <label for="categoria">Categoria:</label><br>
+            <select id="categoria" name="categoria">
+                <option>Aluno</option>
+                <option>Professor</option>
+                <option>Colaborador</option>
+            </select><br><br>
+
+            <button type="submit">Salvar Questionário</button>
+        </form>
+    </section>
+</main>
+
+<footer>
+    <p>Projeto Integrador - Sistema de Pesquisas</p>
+</footer>
+
+</body>
+</html>

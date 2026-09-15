@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Gerenciar Perguntas</title>
+</head>
+<body>
+
+<header>
+    <h1>Gerenciar Perguntas</h1>
+
+    <nav>
+        <a href="main.html">Voltar para a Página Principal</a>
+    </nav>
+</header>
+
+<main>
+    <section>
+        <h2>Função da página</h2>
+
+        <p>
+            Esta funcionalidade permite cadastrar perguntas, definir o tipo de
+            resposta, cadastrar alternativas e associar as perguntas às categorias.
+        </p>
+    </section>
+
+    <section>
+        <h2>Cadastro de pergunta</h2>
+
+        <form>
+            <label for="pergunta">Texto da pergunta:</label><br>
+            <textarea id="pergunta" name="pergunta" rows="4" cols="50"></textarea><br><br>
+
+            <label for="tipo">Tipo de pergunta:</label><br>
+            <select id="tipo" name="tipo">
+                <option>Múltipla escolha única</option>
+                <option>Múltipla escolha múltipla</option>
+                <option>Escolha booleana</option>
+                <option>Texto</option>
+            </select><br><br>
+
+            <label for="alternativa1">Alternativa 1:</label><br>
+            <input type="text" id="alternativa1" name="alternativa1"><br><br>
+
+            <label for="alternativa2">Alternativa 2:</label><br>
+            <input type="text" id="alternativa2" name="alternativa2"><br><br>
+
+            <label for="alternativa3">Alternativa 3:</label><br>
+            <input type="text" id="alternativa3" name="alternativa3"><br><br>
+
+            <label for="categoria">Categoria:</label><br>
+            <select id="categoria" name="categoria">
+                <option>Aluno</option>
+                <option>Professor</option>
+                <option>Colaborador</option>
+            </select><br><br>
+
+            <button type="submit">Salvar Pergunta</button>
+        </form>
+    </section>
+</main>
+
+<footer>
+    <p>Projeto Integrador - Sistema de Pesquisas</p>
+</footer>
+
+</body>
+</html>

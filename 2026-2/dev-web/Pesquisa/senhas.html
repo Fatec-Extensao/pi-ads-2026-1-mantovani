@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Gerar e Controlar Senhas</title>
+</head>
+<body>
+
+<header>
+    <h1>Gerar e Controlar Senhas</h1>
+
+    <nav>
+        <a href="main.html">Voltar para a Página Principal</a>
+    </nav>
+</header>
+
+<main>
+    <section>
+        <h2>Função da página</h2>
+
+        <p>
+            Esta funcionalidade permite gerar senhas anônimas, aleatórias e únicas
+            para acesso à pesquisa. Cada senha deve estar associada a uma categoria
+            de participante.
+        </p>
+    </section>
+
+    <section>
+        <h2>Gerar senhas</h2>
+
+        <form>
+            <label for="categoria">Categoria:</label><br>
+            <select id="categoria" name="categoria">
+                <option>Aluno</option>
+                <option>Professor</option>
+                <option>Colaborador</option>
+            </select><br><br>
+
+            <label for="quantidade">Quantidade de senhas:</label><br>
+            <input type="number" id="quantidade" name="quantidade"><br><br>
+
+            <button type="submit">Gerar Senhas</button>
+        </form>
+    </section>
+
+
+</main>
+
+<footer>
+    <p>Projeto Integrador - Sistema de Pesquisas</p>
+</footer>
+
+</body>
+</html>

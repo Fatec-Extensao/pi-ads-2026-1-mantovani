@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Relatórios</title>
+</head>
+<body>
+
+<header>
+    <h1>Relatórios</h1>
+
+    <nav>
+        <a href="main.html">Voltar para a Página Principal</a>
+    </nav>
+</header>
+
+<main>
+    <section>
+        <h2>Função da página</h2>
+
+        <p>
+            Esta funcionalidade permite gerar relatórios por pergunta, por categoria
+            e comparar resultados entre grupos de participantes. Também permite
+            representar os dados em tabelas e indicar opções de exportação.
+        </p>
+    </section>
+
+    <section>
+        <h2>Gerar relatório</h2>
+
+        <form>
+            <label for="pesquisa">Pesquisa:</label><br>
+            <select id="pesquisa" name="pesquisa">
+                <option>Pesquisa de Satisfação Institucional</option>
+                <option>Pesquisa sobre Infraestrutura</option>
+                <option>Pesquisa sobre Atendimento</option>
+            </select><br><br>
+
+            <label for="tipo">Tipo de relatório:</label><br>
+            <select id="tipo" name="tipo">
+                <option>Relatório por pergunta</option>
+                <option>Relatório por categoria</option>
+                <option>Comparação entre categorias</option>
+            </select><br><br>
+
+            <label for="formato">Formato de exportação:</label><br>
+            <select id="formato" name="formato">
+                <option>PDF</option>
+                <option>CSV</option>
+            </select><br><br>
+
+            <button type="submit">Gerar Relatório</button>
+        </form>
+    </section>
+
+    <section>
+        <h2>Exemplo de relatório por categoria</h2>
+
+        <table border="1">
+            <tr>
+                <th>Categoria</th>
+                <th>Total de respostas</th>
+                <th>Participação</th>
+            </tr>
+            <tr>
+                <td>Aluno</td>
+                <td>80</td>
+                <td>66,7%</td>
+            </tr>
+            <tr>
+                <td>Professor</td>
+                <td>25</td>
+                <td>20,8%</td>
+            </tr>
+            <tr>
+                <td>Colaborador</td>
+                <td>15</td>
+                <td>12,5%</td>
+            </tr>
+        </table>
+    </section>
+</main>
+
+<footer>
+    <p>Projeto Integrador - Sistema de Pesquisas</p>
+</footer>
+
+</body>
+</html>
