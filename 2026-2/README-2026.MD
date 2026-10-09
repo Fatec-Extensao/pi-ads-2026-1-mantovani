@@ -19,7 +19,7 @@
 
 | Nome do Aluno | GitHub / Perfil |
 | :--- | :--- |
-| Nome Aluno 1 | [@usuario1](https://github.com/usuario1) |
+| Vitor Hugo Dias Mantovani | [@Salieri-hi](https://github.com/Salieri-hi) |
 | Nome Aluno 2 | [@usuario2](https://github.com/usuario2) |
 | Nome Aluno 3 | [@usuario3](https://github.com/usuario3) |
 | Nome Aluno 4 | [@usuario4](https://github.com/usuario4) |
