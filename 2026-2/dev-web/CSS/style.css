@@ -1,0 +1,64 @@
+/* Configurações globais */
+*{  
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    height: 100%;
+    font-family: "Arimo", sans-serif;
+}
+
+body {
+    background-color: #ffffff;
+    color: #000000;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 1rem;
+    text-align: center;
+}
+
+/* LINK DE NAVEGAÇÃO */
+.skip-link {
+    position: fixed;
+    left: 0;
+    background-color: #ffffff;
+    color: #000000;
+    padding: 10px 270px;
+}
+
+nav {
+    background-color: #161616;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    margin: 0;
+}
+
+nav a {
+    display: block;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 1rem;
+}
+
+/* Footer style    */
+footer {
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    padding: 1rem;
+    bottom: 0;
+    width: 100%;
+}
