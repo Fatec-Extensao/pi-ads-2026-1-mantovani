@@ -82,7 +82,7 @@ comportamento esperado do módulo.
 
 **Figura 1 - Visão geral do sistema**
 
-<img src="media/image1.png"
+<img src="../assets/imagens/image1.png"
 style="width:5.74803in;height:3.59252in" />
 
 Fonte: Elaborado pelos autores (2026).
@@ -101,7 +101,7 @@ comportamento esperado do módulo.
 
 **Figura 2 - Pesquisas e categorias**
 
-<img src="media/image2.png"
+<img src="../assets/imagens/image2.png"
 style="width:5.74803in;height:3.59252in" />
 
 Fonte: Elaborado pelos autores (2026).
@@ -120,7 +120,7 @@ comportamento esperado do módulo.
 
 **Figura 3 - Questionários e perguntas**
 
-<img src="media/image3.png"
+<img src="../assets/imagens/image3.png"
 style="width:5.74803in;height:3.59252in" />
 
 Fonte: Elaborado pelos autores (2026).
@@ -139,7 +139,7 @@ representar o comportamento esperado do módulo.
 
 **Figura 4 - Senhas e aplicação da pesquisa**
 
-<img src="media/image4.png"
+<img src="../assets/imagens/image4.png"
 style="width:5.74803in;height:3.59252in" />
 
 Fonte: Elaborado pelos autores (2026).
@@ -158,7 +158,7 @@ comportamento esperado do módulo.
 
 **Figura 5 - Dashboard e relatórios**
 
-<img src="media/image5.png"
+<img src="../assets/imagens/image5.png"
 style="width:5.74803in;height:3.59252in" />
 
 Fonte: Elaborado pelos autores (2026).
@@ -295,7 +295,7 @@ principal, pré-condição, representação visual do fluxo e pós-condição.
 
 **Figura 6 - Fluxograma do Manter Pesquisa**
 
-<img src="media/image6.png"
+<img src="../assets/imagens/image6.png"
 style="width:5.82677in;height:3.49606in" />
 
 Fonte: Elaborado pelos autores (2026).
@@ -308,7 +308,7 @@ Fonte: Elaborado pelos autores (2026).
 
 **Figura 7 - Fluxograma do Manter Categorias**
 
-<img src="media/image7.png"
+<img src="../assets/imagens/image7.png"
 style="width:5.82677in;height:3.49606in" />
 
 Fonte: Elaborado pelos autores (2026).
@@ -321,7 +321,7 @@ Fonte: Elaborado pelos autores (2026).
 
 **Figura 8 - Fluxograma do Criar Questionário E Perguntas**
 
-<img src="media/image8.png"
+<img src="../assets/imagens/image8.png"
 style="width:5.82677in;height:4.63552in" />
 
 Fonte: Elaborado pelos autores (2026).
@@ -335,7 +335,7 @@ categorias definidas.
 
 **Figura 9 - Fluxograma do Gerar, Exportar E Controlar Senhas**
 
-<img src="media/image9.png"
+<img src="../assets/imagens/image9.png"
 style="width:5.82677in;height:3.49606in" />
 
 Fonte: Elaborado pelos autores (2026).
@@ -349,7 +349,7 @@ dentro do período de aplicação.
 
 **Figura 10 - Fluxograma do Responder Questionário**
 
-<img src="media/image10.png"
+<img src="../assets/imagens/image10.png"
 style="width:5.82677in;height:6.1343in" />
 
 Fonte: Elaborado pelos autores (2026).
@@ -363,7 +363,7 @@ a pesquisa.
 
 **Figura 11 - Fluxograma do Consultar Dashboard E Gerar Relatórios**
 
-<img src="media/image11.png"
+<img src="../assets/imagens/image11.png"
 style="width:5.82677in;height:4.02371in" />
 
 Fonte: Elaborado pelos autores (2026).
