@@ -1,8 +1,5 @@
 # Wireframes — Sistema de Gestão de Pesquisas
 
-Este arquivo reúne os wireframes com **uma imagem por tela**.
-
-> Observação: para que as imagens apareçam corretamente, mantenha a pasta `wireframes_png` no mesmo diretório deste arquivo Markdown.
 
 ## Índice
 
