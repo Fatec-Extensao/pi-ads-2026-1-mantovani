@@ -20,9 +20,10 @@
 | Nome do Aluno | GitHub / Perfil |
 | :--- | :--- |
 | Vitor Hugo Dias Mantovani | [@Salieri-hi](https://github.com/Salieri-hi) |
-| Nome Aluno 2 | [@usuario2](https://github.com/usuario2) |
-| Nome Aluno 3 | [@usuario3](https://github.com/usuario3) |
-| Nome Aluno 4 | [@usuario4](https://github.com/usuario4) |
+| Neandro Bueno Vieira | [@NeandroBueno](https://github.com/NeandroBueno) |
+| Eduardo Matias Ferreira | [@edumatias1224](https://github.com/edumatias1224) |
+| Lucas Augusto Vieira Tridapali | [@LucasTridapali](https://github.com/Lucastridapali) |
+| Anderson Clayton Pereira de Assis | [@AndersonClaytonAssis](https://github.com/AndersonClaytonAssis) |
 
 ---
 
