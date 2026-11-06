@@ -1,12 +1,5 @@
 # Relatório de Adequação à LGPD e Mecanismos de Anonimato
 
-**Projeto:** Sistema Web para Gestão de Pesquisas por Questionários\
-**Repositório:** `Fatec-Extensao/pi-ads-2026-1-mantovani`\
-**Issue relacionada:** [#11 --- Relatório de Adequação à LGPD e
-Mecanismos de
-Anonimato](https://github.com/Fatec-Extensao/pi-ads-2026-1-mantovani/issues/11)\
-**Documento de requisitos analisado:**
-`2026-2/eng-software-II/requisitosgrupo2.md`\
 **Status:** proposta de adequação --- depende de validação institucional
 e implementação técnica.
 
