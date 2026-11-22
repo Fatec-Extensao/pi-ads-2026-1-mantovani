@@ -17,43 +17,43 @@ Documentação dos diagramas UML do projeto, organizada por perfil de usuário. 
 
 ### UC-ADM-01
 
-![Diagramas de Atividade — Administrador — UC-ADM-01](./diagramas-atividade-projeto/UC-ADM-01.png)
+![Diagramas de Atividade — Administrador — UC-ADM-01](../assets/imagens/DiagramaAtividades/UC-ADM-01.png)
 
 *Figura: diagramas de atividade — administrador (UC-ADM-01).*
 
 ### UC-ADM-02
 
-![Diagramas de Atividade — Administrador — UC-ADM-02](./diagramas-atividade-projeto/UC-ADM-02.png)
+![Diagramas de Atividade — Administrador — UC-ADM-02](../assets/imagens/DiagramaAtividades/UC-ADM-02.png)
 
 *Figura: diagramas de atividade — administrador (UC-ADM-02).*
 
 ### UC-ADM-03
 
-![Diagramas de Atividade — Administrador — UC-ADM-03](./diagramas-atividade-projeto/UC-ADM-03.png)
+![Diagramas de Atividade — Administrador — UC-ADM-03](../assets/imagens/DiagramaAtividades/UC-ADM-03.png)
 
 *Figura: diagramas de atividade — administrador (UC-ADM-03).*
 
 ### UC-ADM-04
 
-![Diagramas de Atividade — Administrador — UC-ADM-04](./diagramas-atividade-projeto/UC-ADM-04.png)
+![Diagramas de Atividade — Administrador — UC-ADM-04](../assets/imagens/DiagramaAtividades/UC-ADM-04.png)
 
 *Figura: diagramas de atividade — administrador (UC-ADM-04).*
 
 ### UC-ADM-05
 
-![Diagramas de Atividade — Administrador — UC-ADM-05](./diagramas-atividade-projeto/UC-ADM-05.png)
+![Diagramas de Atividade — Administrador — UC-ADM-05](../assets/imagens/DiagramaAtividades/UC-ADM-05.png)
 
 *Figura: diagramas de atividade — administrador (UC-ADM-05).*
 
 ### UC-ADM-06
 
-![Diagramas de Atividade — Administrador — UC-ADM-06](./diagramas-atividade-projeto/UC-ADM-06.png)
+![Diagramas de Atividade — Administrador — UC-ADM-06](../assets/imagens/DiagramaAtividades/UC-ADM-06.png)
 
 *Figura: diagramas de atividade — administrador (UC-ADM-06).*
 
 ### UC-ADM-07
 
-![Diagramas de Atividade — Administrador — UC-ADM-07](./diagramas-atividade-projeto/UC-ADM-07.png)
+![Diagramas de Atividade — Administrador — UC-ADM-07](../assets/imagens/DiagramaAtividades/UC-ADM-07.png)
 
 *Figura: diagramas de atividade — administrador (UC-ADM-07).*
 
@@ -62,13 +62,13 @@ Documentação dos diagramas UML do projeto, organizada por perfil de usuário. 
 
 ### UC-ANA-01
 
-![Diagramas de Atividade — Analista de dados — UC-ANA-01](./diagramas-atividade-projeto/UC-ANA-01.png)
+![Diagramas de Atividade — Analista de dados — UC-ANA-01](../assets/imagens/DiagramaAtividades/UC-ANA-01.png)
 
 *Figura: diagramas de atividade — analista de dados (UC-ANA-01).*
 
 ### UC-ANA-02
 
-![Diagramas de Atividade — Analista de dados — UC-ANA-02](./diagramas-atividade-projeto/UC-ANA-02.png)
+![Diagramas de Atividade — Analista de dados — UC-ANA-02](../assets/imagens/DiagramaAtividades/UC-ANA-02.png)
 
 *Figura: diagramas de atividade — analista de dados (UC-ANA-02).*
 
@@ -77,13 +77,13 @@ Documentação dos diagramas UML do projeto, organizada por perfil de usuário. 
 
 ### UC-AUD-01
 
-![Diagramas de Atividade — Auditor — UC-AUD-01](./diagramas-atividade-projeto/UC-AUD-01.png)
+![Diagramas de Atividade — Auditor — UC-AUD-01](../assets/imagens/DiagramaAtividades/UC-AUD-01.png)
 
 *Figura: diagramas de atividade — auditor (UC-AUD-01).*
 
 ### UC-AUD-02
 
-![Diagramas de Atividade — Auditor — UC-AUD-02](./diagramas-atividade-projeto/UC-AUD-02.png)
+![Diagramas de Atividade — Auditor — UC-AUD-02](../assets/imagens/DiagramaAtividades/UC-AUD-02.png)
 
 *Figura: diagramas de atividade — auditor (UC-AUD-02).*
 
@@ -92,13 +92,13 @@ Documentação dos diagramas UML do projeto, organizada por perfil de usuário. 
 
 ### UC-PAR-01
 
-![Diagramas de Atividade — Participante — UC-PAR-01](./diagramas-atividade-projeto/UC-PAR-01.png)
+![Diagramas de Atividade — Participante — UC-PAR-01](../assets/imagens/DiagramaAtividades/UC-PAR-01.png)
 
 *Figura: diagramas de atividade — participante (UC-PAR-01).*
 
 ### UC-PAR-02
 
-![Diagramas de Atividade — Participante — UC-PAR-02](./diagramas-atividade-projeto/UC-PAR-02.png)
+![Diagramas de Atividade — Participante — UC-PAR-02](../assets/imagens/DiagramaAtividades/UC-PAR-02.png)
 
 *Figura: diagramas de atividade — participante (UC-PAR-02).*
 
@@ -107,13 +107,13 @@ Documentação dos diagramas UML do projeto, organizada por perfil de usuário. 
 
 ### UC-SEC-01
 
-![Diagramas de Atividade — Secretaria — UC-SEC-01](./diagramas-atividade-projeto/UC-SEC-01.png)
+![Diagramas de Atividade — Secretaria — UC-SEC-01](../assets/imagens/DiagramaAtividades/UC-SEC-01.png)
 
 *Figura: diagramas de atividade — secretaria (UC-SEC-01).*
 
 ### UC-SEC-02
 
-![Diagramas de Atividade — Secretaria — UC-SEC-02](./diagramas-atividade-projeto/UC-SEC-02.png)
+![Diagramas de Atividade — Secretaria — UC-SEC-02](../assets/imagens/DiagramaAtividades/UC-SEC-02.png)
 
 *Figura: diagramas de atividade — secretaria (UC-SEC-02).*
 
@@ -122,18 +122,18 @@ Documentação dos diagramas UML do projeto, organizada por perfil de usuário. 
 
 ### UC-SUP-01
 
-![Diagramas de Atividade — Suporte técnico — UC-SUP-01](./diagramas-atividade-projeto/UC-SUP-01.png)
+![Diagramas de Atividade — Suporte técnico — UC-SUP-01](../assets/imagens/DiagramaAtividades/UC-SUP-01.png)
 
 *Figura: diagramas de atividade — suporte técnico (UC-SUP-01).*
 
 ### UC-SUP-02
 
-![Diagramas de Atividade — Suporte técnico — UC-SUP-02](./diagramas-atividade-projeto/UC-SUP-02.png)
+![Diagramas de Atividade — Suporte técnico — UC-SUP-02](../assets/imagens/DiagramaAtividades/UC-SUP-02.png)
 
 *Figura: diagramas de atividade — suporte técnico (UC-SUP-02).*
 
 ---
 
-> **Como visualizar no GitHub:** mantenha este arquivo `.md` na mesma pasta que o diretório `diagramas-atividade-projeto` com as imagens `.png`. O GitHub exibirá cada diagrama automaticamente.
+> **Caminho das imagens:** os arquivos PNG devem estar em `2026-2/assets/imagens/DiagramaAtividades/`, enquanto este Markdown fica em `2026-2/eng-software-II/`. Os links relativos usam `../assets/imagens/`.
 
 > **Formato dos diagramas:** as figuras são imagens PNG originais, não diagramas Mermaid editáveis.
